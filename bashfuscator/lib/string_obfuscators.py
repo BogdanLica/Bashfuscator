@@ -87,7 +87,7 @@ class GlobObfuscator(StringObfuscator):
             ch = cmdChars[i]
             ch = ch.replace("'", "'\"'\"'")
             parts.append(
-                "printf -- '" + ch + "' > '" + self.workingDir + "/" +
+                "printf '%s' '" + ch + "' > '" + self.workingDir + "/" +
                 format(i, "0" + str(cmdLogLen) + "b").replace("0", "?").replace("1", "\n") + "';"
             )
         self.randGen.randShuffle(parts)
