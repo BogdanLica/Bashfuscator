@@ -1,0 +1,614 @@
+++ mkdir -p /tmp/kaftYi
+++ printf %q %s '(pri'
+++ printf %q %s prin
+++ printf %q %s md5s
+++ printf %q %s '(pri'
+++ printf %q %s 'ut -'
+++ printf %q %s 'ntf '
+++ printf %q %s ' "\x'
+++ printf %q %s '\x$('
+++ printf %q %s eval
+++ printf %q %s '- '\''T'
+++ printf %q %s '0)";'
+++ printf %q %s '-- '\'''
+++ printf %q %s 'tA'\''|'
+++ printf %q %s 'ut -'
+++ printf %q %s ';pri'
+++ printf %q %s '- '\''a'
+++ printf %q %s 'ntf '
+++ printf %q %s 'm|cu'
+++ printf %q %s 'ntf '
+++ printf %q %s '|md5'
+++ printf %q %s 'O0'\''|'
+++ printf %q %s 'wK'\''|'
+++ printf %q %s -b11
+++ printf %q %s 't -b'
+++ printf %q %s '3)";'
+++ printf %q %s intf
+++ printf %q %s prin
+++ printf %q %s '(pri'
+++ printf %q %s b9-1
+++ printf %q %s '2-3)'
+++ printf %q %s '-- '\'''
+++ printf %q %s 'ntf '
+++ printf %q %s 'tf -'
+++ printf %q %s '21)"'
+++ printf %q %s 'ntf '
+++ printf %q %s 'tf "'
+++ printf %q %s '"\x$'
+++ printf %q %s d5su
+++ printf %q %s prin
+++ printf %q %s 't -b'
+++ printf %q %s prin
+++ printf %q %s 'V'\''|m'
+++ printf %q %s 'ut -'
+++ printf %q %s 'W'\''|m'
+++ printf %q %s '- '\''8'
+++ printf %q %s b31-
+++ printf %q %s md5s
+++ printf %q %s b30-
+++ printf %q %s '$(pr'
+++ printf %q %s 'tf "'
+++ printf %q %s ' "$('
+++ printf %q %s 'Lo6'\'''
+++ printf %q %s intf
+++ printf %q %s 'tf -'
+++ printf %q %s prin
+++ printf %q %s '\x$('
+++ printf %q %s 'tf -'
+++ printf %q %s md5s
+++ printf %q %s 'ut -'
+++ printf %q %s 'ntf '
+++ printf %q %s prin
+++ printf %q %s ';pri'
+++ printf %q %s ''\''w'\''|'
+++ printf %q %s 'um|c'
+++ printf %q %s 'um|c'
+++ printf %q %s '-- '\'''
+++ printf %q %s '-12)'
+++ printf %q %s 'um|c'
+++ printf %q %s ';pri'
+++ printf %q %s b20-
+++ printf %q %s '"\x$'
+++ printf %q %s '";)"'
+++ printf %q %s md5s
+++ printf %q %s 'tf "'
+++ printf %q %s 'm|cu'
+++ printf %q %s '31)"'
+++ printf %q %s '\x$('
+++ printf %q %s 'um|c'
+++ printf %q %s '";pr'
+++ printf %q %s d5su
+++ printf %q %s 'sum|'
+++ printf %q %s ' -- '
+++ printf %q %s 12-1
+++ printf %q %s '"\x$'
+++ printf %q %s '32)"'
+++ printf %q %s 'cut '
+++ cat '/tmp/kaftYi/
+?
+?
+?
+' '/tmp/kaftYi/
+?
+?
+??' '/tmp/kaftYi/
+?
+??
+
+' '/tmp/kaftYi/
+?
+??
+?' '/tmp/kaftYi/
+?
+???
+' '/tmp/kaftYi/
+?
+????' '/tmp/kaftYi/
+??
+
+
+
+' '/tmp/kaftYi/
+??
+
+
+?' '/tmp/kaftYi/
+??
+
+?
+' '/tmp/kaftYi/
+??
+
+??' '/tmp/kaftYi/
+??
+?
+
+' '/tmp/kaftYi/
+??
+?
+?' '/tmp/kaftYi/
+??
+??
+' '/tmp/kaftYi/
+??
+???' '/tmp/kaftYi/
+???
+
+
+' '/tmp/kaftYi/
+???
+
+?' '/tmp/kaftYi/
+???
+?
+' '/tmp/kaftYi/
+???
+??' '/tmp/kaftYi/
+????
+
+' '/tmp/kaftYi/
+????
+?' '/tmp/kaftYi/
+?????
+' '/tmp/kaftYi/
+??????' '/tmp/kaftYi/?
+
+
+
+
+
+' '/tmp/kaftYi/?
+
+
+
+
+?' '/tmp/kaftYi/?
+
+
+
+?
+' '/tmp/kaftYi/?
+
+
+
+??' '/tmp/kaftYi/?
+
+
+?
+
+' '/tmp/kaftYi/?
+
+
+?
+?' '/tmp/kaftYi/?
+
+
+??
+' '/tmp/kaftYi/?
+
+
+???' '/tmp/kaftYi/?
+
+?
+
+
+' '/tmp/kaftYi/?
+
+?
+
+?' '/tmp/kaftYi/?
+
+?
+?
+' '/tmp/kaftYi/?
+
+?
+??' '/tmp/kaftYi/?
+
+??
+
+' '/tmp/kaftYi/?
+
+??
+?' '/tmp/kaftYi/?
+
+???
+' '/tmp/kaftYi/?
+
+????' '/tmp/kaftYi/?
+?
+
+
+
+' '/tmp/kaftYi/?
+?
+
+
+?' '/tmp/kaftYi/?
+?
+
+?
+' '/tmp/kaftYi/?
+?
+
+??' '/tmp/kaftYi/?
+?
+?
+
+' '/tmp/kaftYi/?
+?
+?
+?' '/tmp/kaftYi/?
+?
+??
+' '/tmp/kaftYi/?
+?
+???' '/tmp/kaftYi/?
+??
+
+
+' '/tmp/kaftYi/?
+??
+
+?' '/tmp/kaftYi/?
+??
+?
+' '/tmp/kaftYi/?
+??
+??' '/tmp/kaftYi/?
+???
+
+' '/tmp/kaftYi/?
+???
+?' '/tmp/kaftYi/?
+????
+' '/tmp/kaftYi/?
+?????' '/tmp/kaftYi/??
+
+
+
+
+' '/tmp/kaftYi/??
+
+
+
+?' '/tmp/kaftYi/??
+
+
+?
+' '/tmp/kaftYi/??
+
+
+??' '/tmp/kaftYi/??
+
+?
+
+' '/tmp/kaftYi/??
+
+?
+?' '/tmp/kaftYi/??
+
+??
+' '/tmp/kaftYi/??
+
+???' '/tmp/kaftYi/??
+?
+
+
+' '/tmp/kaftYi/??
+?
+
+?' '/tmp/kaftYi/??
+?
+?
+' '/tmp/kaftYi/??
+?
+??' '/tmp/kaftYi/??
+??
+
+' '/tmp/kaftYi/??
+??
+?' '/tmp/kaftYi/??
+???
+' '/tmp/kaftYi/??
+????' '/tmp/kaftYi/???
+
+
+
+' '/tmp/kaftYi/???
+
+
+?' '/tmp/kaftYi/???
+
+?
+' '/tmp/kaftYi/???
+
+??' '/tmp/kaftYi/???
+?
+
+' '/tmp/kaftYi/???
+?
+?' '/tmp/kaftYi/???
+??
+' '/tmp/kaftYi/???
+???' '/tmp/kaftYi/????
+
+
+' '/tmp/kaftYi/????
+
+?' '/tmp/kaftYi/????
+?
+' '/tmp/kaftYi/????
+??' '/tmp/kaftYi/?????
+
+' '/tmp/kaftYi/?????
+?' '/tmp/kaftYi/??????
+' '/tmp/kaftYi/???????'
+++ '/tmp/kaftYi/
+?
+?
+?
+' '/tmp/kaftYi/
+?
+?
+??' '/tmp/kaftYi/
+?
+??
+
+' '/tmp/kaftYi/
+?
+??
+?' '/tmp/kaftYi/
+?
+???
+' '/tmp/kaftYi/
+?
+????' '/tmp/kaftYi/
+??
+
+
+
+' '/tmp/kaftYi/
+??
+
+
+?' '/tmp/kaftYi/
+??
+
+?
+' '/tmp/kaftYi/
+??
+
+??' '/tmp/kaftYi/
+??
+?
+
+' '/tmp/kaftYi/
+??
+?
+?' '/tmp/kaftYi/
+??
+??
+' '/tmp/kaftYi/
+??
+???' '/tmp/kaftYi/
+???
+
+
+' '/tmp/kaftYi/
+???
+
+?' '/tmp/kaftYi/
+???
+?
+' '/tmp/kaftYi/
+???
+??' '/tmp/kaftYi/
+????
+
+' '/tmp/kaftYi/
+????
+?' '/tmp/kaftYi/
+?????
+' '/tmp/kaftYi/
+??????' '/tmp/kaftYi/?
+
+
+
+
+
+' '/tmp/kaftYi/?
+
+
+
+
+?' '/tmp/kaftYi/?
+
+
+
+?
+' '/tmp/kaftYi/?
+
+
+
+??' '/tmp/kaftYi/?
+
+
+?
+
+' '/tmp/kaftYi/?
+
+
+?
+?' '/tmp/kaftYi/?
+
+
+??
+' '/tmp/kaftYi/?
+
+
+???' '/tmp/kaftYi/?
+
+?
+
+
+' '/tmp/kaftYi/?
+
+?
+
+?' '/tmp/kaftYi/?
+
+?
+?
+' '/tmp/kaftYi/?
+
+?
+??' '/tmp/kaftYi/?
+
+??
+
+' '/tmp/kaftYi/?
+
+??
+?' '/tmp/kaftYi/?
+
+???
+' '/tmp/kaftYi/?
+
+????' '/tmp/kaftYi/?
+?
+
+
+
+' '/tmp/kaftYi/?
+?
+
+
+?' '/tmp/kaftYi/?
+?
+
+?
+' '/tmp/kaftYi/?
+?
+
+??' '/tmp/kaftYi/?
+?
+?
+
+' '/tmp/kaftYi/?
+?
+?
+?' '/tmp/kaftYi/?
+?
+??
+' '/tmp/kaftYi/?
+?
+???' '/tmp/kaftYi/?
+??
+
+
+' '/tmp/kaftYi/?
+??
+
+?' '/tmp/kaftYi/?
+??
+?
+' '/tmp/kaftYi/?
+??
+??' '/tmp/kaftYi/?
+???
+
+' '/tmp/kaftYi/?
+???
+?' '/tmp/kaftYi/?
+????
+' '/tmp/kaftYi/?
+?????' '/tmp/kaftYi/??
+
+
+
+
+' '/tmp/kaftYi/??
+
+
+
+?' '/tmp/kaftYi/??
+
+
+?
+' '/tmp/kaftYi/??
+
+
+??' '/tmp/kaftYi/??
+
+?
+
+' '/tmp/kaftYi/??
+
+?
+?' '/tmp/kaftYi/??
+
+??
+' '/tmp/kaftYi/??
+
+???' '/tmp/kaftYi/??
+?
+
+
+' '/tmp/kaftYi/??
+?
+
+?' '/tmp/kaftYi/??
+?
+?
+' '/tmp/kaftYi/??
+?
+??' '/tmp/kaftYi/??
+??
+
+' '/tmp/kaftYi/??
+??
+?' '/tmp/kaftYi/??
+???
+' '/tmp/kaftYi/??
+????' '/tmp/kaftYi/???
+
+
+
+' '/tmp/kaftYi/???
+
+
+?' '/tmp/kaftYi/???
+
+?
+' '/tmp/kaftYi/???
+
+??' '/tmp/kaftYi/???
+?
+
+' '/tmp/kaftYi/???
+?
+?' '/tmp/kaftYi/???
+??
+' '/tmp/kaftYi/???
+???' '/tmp/kaftYi/????
+
+
+' '/tmp/kaftYi/????
+
+?' '/tmp/kaftYi/????
+?
+' '/tmp/kaftYi/????
+??' '/tmp/kaftYi/?????
+
+' '/tmp/kaftYi/?????
+?' '/tmp/kaftYi/??????
+' '/tmp/kaftYi/???????'
+out.txt: line 520: /tmp/kaftYi/
+?
+?
+?
+: Permission denied
++ 'printf %q %s %s\"\;\)\"%s-12\)%s-b11%scut\' '%ssum\|%s\|md5%sLo6\'\''%s--\' '\'\''%sntf\' '%s\(pri%s\"\\x\$%sntf\' '%s\;pri%s32\)\"%sb31-%sut\' '-%sum\|c%smd5s%s\'\''w\'\''\|%s\' '--\' '%sintf%s\$\(pr%s\' '\"\\x%sintf%s\"\;pr%s2-3\)%st\' '-b%sm\|cu%sd5su%sV\'\''\|m%s--\' '\'\''%sntf\' '%s\(pri%s\"\\x\$%sntf\' '%s\;pri%s31\)\"%sb30-%sut\' '-%sum\|c%smd5s%swK\'\''\|%s--\' '\'\''%sntf\' '%s\(pri%s\"\\x\$%sntf\' '%s\;pri%s21\)\"%sb20-%sut\' '-%sum\|c%smd5s%stA\'\''\|%s-\' '\'\''a%stf\' '-%sprin%s\\x\$\(%stf\' '\"%sprin%s0\)\"\;%sb9-1%sut\' '-%sum\|c%smd5s%sO0\'\''\|%s-\' '\'\''T%stf\' '-%sprin%s\\x\$\(%stf\' '\"%sprin%s3\)\"\;%s12-1%st\' '-b%sm\|cu%sd5su%sW\'\''\|m%s-\' '\'\''8%stf\' '-%sprin%s\\x\$\(%stf\' '\"%sprin%s\' '\"\$\(%seval|bash'
+out.txt: line 261: printf %q %s %s\"\;\)\"%s-12\)%s-b11%scut\: command not found

