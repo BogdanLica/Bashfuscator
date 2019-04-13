@@ -34,8 +34,9 @@ class Encoder(Mutator):
     :type credits: str
     """
 
-    def __init__(self, name, description, sizeRating, timeRating, binariesUsed=[], fileWrite=False, notes=None, author=None, credits=None, evalWrap=True, unreadableOutput=False):
+    def __init__(self, name, description, sizeRating, timeRating, binariesUsed=[], fileWrite=False, notes=None, author=None, credits=None, evalWrap=True, unreadableOutput=False, postEncoder=False):
         super().__init__(name, "encode", description, sizeRating, timeRating, notes, author, credits, evalWrap, unreadableOutput)
 
         self.binariesUsed = binariesUsed
         self.fileWrite = fileWrite
+        self.postEncoder = postEncoder
